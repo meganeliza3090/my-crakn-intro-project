@@ -5,3 +5,7 @@ body {
 .container div.card {
   width: 22rem;
 }
+
+.card img {
+  min-height: 250px;
+}
