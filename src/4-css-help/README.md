@@ -14,4 +14,5 @@ Feel free to edit:
 * `index.css`
 
 ## Requirements
+* You may not install any additional dependencies
 * Page must resemble mock-up

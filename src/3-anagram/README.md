@@ -13,6 +13,7 @@ You can test your code at any time by running `npm run test anagram` from termin
 Be prepared to explain why you took the approach you did.
 
 ## Requirements
+* You may not install any additional dependencies
 * Function must accept two arguments and determine if they are anagrams of eachother
 * Function must return true if an anagram is present
 * Function must reutnr false if an anagram is not present
