@@ -1,0 +1,17 @@
+{
+  "name": "crakn-entry-project",
+  "version": "0.0.1",
+  "description": "A js skills evaluation for CRaKN",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "jest": "^27.0.3"
+  }
+}
