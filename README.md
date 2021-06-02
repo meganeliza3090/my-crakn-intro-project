@@ -1,6 +1,6 @@
 # CRäKN Introduction Project
 
-This is an evaulation project for Front-End positions at CRäKN.  Each folder in `src` has a README file for what needs to be done to complete the task.  Edit the files in folders to meet the requirements outlined in the READMEs.  If at any point you feel stuck, feel free to stop and we can discuss your progress up to that point.  <ins>Completion of this project is not a requirement.</ins>  This just for CRäKN to have a starting point to discuss how you approach projects.
+This is an evaluation project for Front-End positions at CRäKN.  Each folder in `src` has a README file for what needs to be done to complete the task.  Edit the files in folders to meet the requirements outlined in the READMEs.  If at any point you feel stuck, feel free to stop and we can discuss your progress up to that point.  <ins>Completion of this project is not a requirement.</ins>  This just for CRäKN to have a starting point to discuss how you approach projects.
 
 ## Prerequisites
 
