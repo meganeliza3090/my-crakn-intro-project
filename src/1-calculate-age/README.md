@@ -12,5 +12,5 @@ Be prepared to explain why you took the approach you did.
 
 ## Requirements
 * Function must accept two arguments and output the age of the person
-* You may not alter the test file
+* You may not alter the tests already in the test file.  Feel free to add additional tests.
 * `npm run test age` must pass
