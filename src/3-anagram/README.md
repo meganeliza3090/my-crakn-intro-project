@@ -16,5 +16,5 @@ Be prepared to explain why you took the approach you did.
 * Function must accept two arguments and determine if they are anagrams of eachother
 * Function must return true if an anagram is present
 * Function must reutnr false if an anagram is not present
-* You may not alter the test file
+* You may not alter the tests already in the test file.  Feel free to add additional tests.
 * `npm run test anagram` must pass
