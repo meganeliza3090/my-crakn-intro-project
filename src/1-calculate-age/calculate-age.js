@@ -5,7 +5,8 @@ exports.ageAtDeath = function (birthDate, deathDate) {
 
   let age = (deathDate.getFullYear() - birthDate.getFullYear());
 
-  if (deathDate.getMonth() < birthDate.getMonth() || deathDate.getMonth() == birthDate.getMonth() && deathDate.getDate() < birthDate.getDate()) {
+  if (deathDate.getMonth() < birthDate.getMonth() || 
+    (deathDate.getMonth() == birthDate.getMonth() && deathDate.getDate() < birthDate.getDate())) {
     age--;
   }
   return age;
