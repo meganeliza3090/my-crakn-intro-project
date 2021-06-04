@@ -4,9 +4,5 @@ exports.anagram = function (firstWord, secondWord) {
   let a = firstWord.split("").sort().join("");
   let b = secondWord.split("").sort().join("");
 
-  if (a === b) {
-    return true;
-  } else {
-    return false;
-  }
+  return (a === b) ? true : false;
 }
